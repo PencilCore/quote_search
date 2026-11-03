@@ -1,0 +1,38 @@
+CUV 节数: 31021  KJV 节数: 31102
+KJV 有而 CUV 无: 83 节
+  + Gen 24:30  key=24030
+  + Exod 38:15  key=1038015
+  + Lev 3:15  key=2003015
+  + Num 1:21  key=3001021
+  + Num 1:23  key=3001023
+  + Num 1:25  key=3001025
+  + Num 1:27  key=3001027
+  + Num 1:29  key=3001029
+  + Num 1:31  key=3001031
+  + Num 1:33  key=3001033
+  + Num 1:35  key=3001035
+  + Num 1:37  key=3001037
+  + Num 1:39  key=3001039
+  + Num 1:41  key=3001041
+  + Num 1:43  key=3001043
+  + Num 1:46  key=3001046
+  + Num 4:40  key=3004040
+  + Num 4:44  key=3004044
+  + Num 4:48  key=3004048
+  + Deut 4:33  key=4004033
+  + Deut 13:13  key=4013013
+  + Deut 13:18  key=4013018
+  + Deut 15:5  key=4015005
+  + Deut 28:14  key=4028014
+  + Deut 28:59  key=4028059
+  + Deut 29:11  key=4029011
+  + Deut 30:10  key=4030010
+  + Josh 3:11  key=5003011
+  + Josh 21:10  key=5021010
+  + Judg 20:28  key=6020028
+  ... 还有 53 节
+CUV 有而 KJV 无: 2 节
+  - 3John 1:15  key=63001015
+  - Rev 12:18  key=65012018
+
+verseKey = b*1000000 + c*1000 + v  (b 为 books.json 下标)

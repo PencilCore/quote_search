@@ -1,0 +1,14 @@
+{
+  "name": "Quote Search · 经文原文速查",
+  "short_name": "Quote Search",
+  "description": "八库经文原文速查：圣经·古兰经·佛经·道德经·论语·庄子·诗经·六祖坛经，离线可搜",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b0b0c",
+  "theme_color": "#0b0b0c",
+  "lang": "zh-Hans",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

@@ -1,0 +1,5 @@
+build/_src/
+*.log
+.DS_Store
+.commandcode/
+js/app.bible.bak.js

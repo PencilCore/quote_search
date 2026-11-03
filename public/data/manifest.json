@@ -1,0 +1,138 @@
+{
+  "generatedAt": "2026-11-03T02:40:21.088Z",
+  "files": [
+    {
+      "file": "books.json",
+      "raw": 9410,
+      "sha256": "144802590a489c5840664ba406eb425c7646c2196e6fecd3b0d8961b4859189f",
+      "gzip": 2790,
+      "brotli": 2138
+    },
+    {
+      "file": "buddhist/books.json",
+      "raw": 523,
+      "sha256": "1afe93d0a0d36711aa5da1d1c3c75aa6f936f4836497ae8d088d792f8bd8ec66",
+      "gzip": 339,
+      "brotli": 269
+    },
+    {
+      "file": "buddhist/buddhist.json",
+      "raw": 4754,
+      "sha256": "93ea4618dbdb51999882b713ceabf461c066de7893c6bbb4ab3f882fe70daf42",
+      "gzip": 2072,
+      "brotli": 1793
+    },
+    {
+      "file": "catalog.json",
+      "raw": 1117,
+      "sha256": "bdf9783f4201f5b48c7f02027af9c9dc0292112b9bb362c90f4987e53668e0f7",
+      "gzip": 476,
+      "brotli": 412
+    },
+    {
+      "file": "cuv_trad.json",
+      "raw": 3602602,
+      "sha256": "bce1c8742c886c2816d78b5353cf360687aa986195eec543398b06e628b8ce57",
+      "gzip": 1263913,
+      "brotli": 919917
+    },
+    {
+      "file": "cuv.json",
+      "raw": 3600650,
+      "sha256": "3924f66703f496a2fec63af2b2a1c64d0373e1bfab5b9c14461af3e14ddba8c2",
+      "gzip": 1261168,
+      "brotli": 919408
+    },
+    {
+      "file": "dao/books.json",
+      "raw": 344,
+      "sha256": "a1ec4f2f7b7be6d956bf7b1b51ad9e0bafea6bff9210e22f46ec07c8118a58d3",
+      "gzip": 273,
+      "brotli": 232
+    },
+    {
+      "file": "dao/dao.json",
+      "raw": 20320,
+      "sha256": "7a4488794e9d80b446fc818c78b2c3b28d0be0364b53177bb353caa8346aa25a",
+      "gzip": 8986,
+      "brotli": 7745
+    },
+    {
+      "file": "kjv.json",
+      "raw": 4512439,
+      "sha256": "291c6e9454b5a349e08248003990f735bc96d57fb6b7ac9d29ef8bb3810fcccd",
+      "gzip": 1309972,
+      "brotli": 990455
+    },
+    {
+      "file": "liuzu/books.json",
+      "raw": 335,
+      "sha256": "7553baf80a7c8010c31df5da24534c429038455348ddef05cfef111c40d25935",
+      "gzip": 255,
+      "brotli": 208
+    },
+    {
+      "file": "liuzu/liuzu.json",
+      "raw": 1885,
+      "sha256": "96be2c4073318bdc59bd07c750f909993103d5c6fa9bb115344a62f7e9f6e491",
+      "gzip": 1089,
+      "brotli": 943
+    },
+    {
+      "file": "lunyu/books.json",
+      "raw": 3275,
+      "sha256": "b9ae0950cfa69dc569260f5c6c77ed19fc1ebb3863a1507ff80c8babf5442398",
+      "gzip": 757,
+      "brotli": 560
+    },
+    {
+      "file": "lunyu/lunyu.json",
+      "raw": 14995,
+      "sha256": "18810dd6f611ffb488ff671ad3a3db9f590268aee40ef9aa9c89e7a285e994e3",
+      "gzip": 6373,
+      "brotli": 5629
+    },
+    {
+      "file": "quran/books.json",
+      "raw": 383,
+      "sha256": "0582b24194a84ff0096571b30fa85f893e4b5a2baea0a1414c1800e27c1b9cdc",
+      "gzip": 313,
+      "brotli": 256
+    },
+    {
+      "file": "quran/quran.json",
+      "raw": 802367,
+      "sha256": "3b4ad058383e073e5dd9d8cb96a2c9e9d63af6e9c0757b4086805de1f8a8d88f",
+      "gzip": 273056,
+      "brotli": 202887
+    },
+    {
+      "file": "shijing/books.json",
+      "raw": 2109,
+      "sha256": "9a86cdd807a0517f96178dfc1321f393f5ccd234365c4a48718dccbd6573ab22",
+      "gzip": 541,
+      "brotli": 399
+    },
+    {
+      "file": "shijing/shijing.json",
+      "raw": 2352,
+      "sha256": "fb0980833f5fe1b77437b97f5e086e381c2ee6f927cfd875436a374eac9f732d",
+      "gzip": 1188,
+      "brotli": 999
+    },
+    {
+      "file": "zhuangzi/books.json",
+      "raw": 1409,
+      "sha256": "6b3e6e17a3a98c92733c993a39fb2425ad9ce2ceaf2ea8978a3013d19cd1530a",
+      "gzip": 423,
+      "brotli": 337
+    },
+    {
+      "file": "zhuangzi/zhuangzi.json",
+      "raw": 2745,
+      "sha256": "0d02e0ed24e94c2fc5dd778074589a18d551134cabbdb39f21464d36d63bae38",
+      "gzip": 1508,
+      "brotli": 1325
+    }
+  ]
+}
